@@ -1,0 +1,27 @@
+{
+  "projects": {
+    "addProjectTitle": "إضافة مشروع جديد",
+    "projectName": "اسم المشروع",
+    "projectDescription": "وصف المشروع",
+    "projectListTitle": "قائمة المشاريع",
+    "projectsModuleTitle": "إدارة المشاريع",
+    "statusActive": "نشط",
+    "statusCompleted": "مكتمل",
+    "statusOnHold": "معلق"
+  },
+  "tasks": {
+    "addTaskTitle": "إضافة مهمة جديدة",
+    "taskTitle": "عنوان المهمة",
+    "taskDescription": "وصف المهمة",
+    "priorityLow": "منخفضة",
+    "priorityMedium": "متوسطة",
+    "priorityHigh": "مرتفعة",
+    "taskListTitle": "قائمة المهام",
+    "tasksModuleTitle": "إدارة المهام"
+  },
+  "common": {
+    "add": "إضافة",
+    "edit": "تعديل",
+    "delete": "حذف"
+  }
+}

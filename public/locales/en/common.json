@@ -1,0 +1,27 @@
+{
+  "projects": {
+    "addProjectTitle": "Add New Project",
+    "projectName": "Project Name",
+    "projectDescription": "Project Description",
+    "projectListTitle": "Project List",
+    "projectsModuleTitle": "Project Management",
+    "statusActive": "Active",
+    "statusCompleted": "Completed",
+    "statusOnHold": "On Hold"
+  },
+  "tasks": {
+    "addTaskTitle": "Add New Task",
+    "taskTitle": "Task Title",
+    "taskDescription": "Task Description",
+    "priorityLow": "Low",
+    "priorityMedium": "Medium",
+    "priorityHigh": "High",
+    "taskListTitle": "Task List",
+    "tasksModuleTitle": "Task Management"
+  },
+  "common": {
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete"
+  }
+}
